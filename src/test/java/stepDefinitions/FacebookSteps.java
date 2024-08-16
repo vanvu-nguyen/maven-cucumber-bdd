@@ -15,4 +15,8 @@ public class FacebookSteps {
     @Then("^Password textbox is displayed$")
     public void passwordTextboxIsDisplayed() {
     }
+
+    @Then("^Password textbox is displayed$")
+    public void 0passwordTextboxIsDisplayed() {
+    }
 }
